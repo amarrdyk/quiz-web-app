@@ -4,7 +4,8 @@ Languages used: HTML, CSS, Javascript, PHP(server and database connectivity) and
 
 Features:
 - As this application makes use of session concepts, he/she has to submit within the respective time.
-- User cannot attend the test multiple times as once they attend, a unique session ID is alloted.     
+- User cannot attend the test multiple times as once they attend, a unique session ID is alloted.
+- If the user forgets his/her credentials, have the ability to reset the passcode by clicking the link below.      
 
 > Login page: 
 
