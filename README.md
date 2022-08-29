@@ -1,5 +1,10 @@
 # quiz-web-app
 Various languages have been used to develop a simple quiz web application intended for beginners.
+Languages used: HTML, CSS, Javascript, PHP(server and database connectivity) and oracle SQL. 
+
+Features:
+- As this application makes use of session concepts, he/she has to submit within the respective time.
+- User cannot attend the test multiple times as once they attend, a unique session ID is alloted.     
 
 > Login page: 
 
